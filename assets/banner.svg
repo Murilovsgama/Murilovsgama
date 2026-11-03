@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Murilo Santana — Desenvolvedor Back-End</title>
+<desc id="desc">C#, .NET, APIs e integrações. São Paulo, Brasil.</desc>
+<rect width="1200" height="300" rx="16" fill="#101411"/>
+<g fill="none" stroke="#30402b"><circle cx="1040" cy="150" r="110"/><circle cx="1040" cy="150" r="78"/><path d="M870 150h330M1040 0v300"/></g>
+<rect x="54" y="53" width="42" height="4" fill="#c3f66a"/>
+<text x="54" y="99" fill="#b4c2ab" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="4">DESENVOLVEDOR BACK-END</text>
+<text x="50" y="170" fill="#f2f5ed" font-family="Segoe UI,Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Murilo Santana<tspan fill="#c3f66a">.</tspan></text>
+<text x="54" y="218" fill="#bdc7b6" font-family="Segoe UI,Arial,sans-serif" font-size="22">C# / .NET · APIs REST · Integrações</text>
+<text x="54" y="264" fill="#87967d" font-family="Segoe UI,Arial,sans-serif" font-size="15">São Paulo, Brasil</text>
+<text x="953" y="170" fill="#c3f66a" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">.NET</text>
+</svg>
